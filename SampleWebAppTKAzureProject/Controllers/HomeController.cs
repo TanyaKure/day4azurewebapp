@@ -15,7 +15,7 @@ namespace SampleWebAppTKAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Tanya Kure's Page!!!!!!.";
+            ViewBag.Message = "TanyaKure's Page!!!!!!.";
 
             return View();
         }
